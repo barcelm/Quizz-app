@@ -1,6 +1,6 @@
 # adv_basic
 
-A new Flutter project.
+A new Flutter project - Quizz.
 
 ## Getting Started
 
